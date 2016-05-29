@@ -1,0 +1,25 @@
+.login {
+    padding: 10px;
+    margin: 100px auto;
+    display: table;
+    position: relative;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0.8;
+    display: none;
+}
+
+.loginExit {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
