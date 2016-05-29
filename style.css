@@ -1,5 +1,6 @@
 .login {
-    padding: 10px;
+    box-shadow: 0px 0px 0px 4px red;
+    padding: 30px;
     margin: 100px auto;
     display: table;
     position: relative;
@@ -17,9 +18,7 @@
 }
 
 .loginExit {
-    width: 20px;
-    height: 20px;
     position: absolute;
-    top: 5px;
-    right: 5px;
+    top: 10px;
+    right: 10px;
 }
